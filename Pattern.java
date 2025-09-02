@@ -357,6 +357,7 @@ public class Pattern {
         int n = number.nextInt();
 
         Pattern p = new Pattern();
+        //change this function name
         p.pattern22(n);
     }
 }
